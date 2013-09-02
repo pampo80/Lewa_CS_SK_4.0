@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="StartDialogTitle">Startuji tcpdump</string>
+<string name="StartDialogContent">Prosím chvilku strpení...</string>
+<string name="StopDialogTitle">Zastavuji tcpdump</string>
+<string name="StopDialogContent">Prosím chvilku strpení...</string>
+<string name="ClearDialogTitle">Mažu log</string>
+<string name="ClearDialogContent">Prosím chvilku strpení...</string>
+<string name="log_path_default">/sdcard/mtklog/network</string>
+<string name="phone_path">Telefon</string>
+<string name="sd_path">SD karta</string>
+<string name="log_size_hint">Celková velikost logu (MBytes)</string>
+<string name="show_available_space">Dostupné místo</string>
+<string name="write_command">Zde nelze zadat shell příkaz</string>
+<string name="run_shell_command">Spustit příkaz</string>
+<string name="Start_tcpdump">Start tcpdump...</string>
+<string name="Stop_tcpdump">Stop tcpdump...</string>
+<string name="Clear_log">Smazat log...</string>
+<string name="cancle_command">Zastavit příkaz</string>
+<string name="Cancle_command_text">Jestli potřebujete, zde můžete zrušit shell příkaz</string>
+<string name="error_invalid_file_path">Chybná cesta souboru</string>
+<string name="error_invalid_log_size">Chybná velikost logu</string>
+<string name="dialog_error">Chyba</string>
+<string name="start">Start</string>
+<string name="stop">Stop</string>
+<string name="activitynetworklog_service_label">Stav služby Network Log</string>
+<string name="activitynetworklog_service_start">Služba Network Log spuštěna</string>
+<string name="activitynetworklog_service_stopped">Služba Network Log zastavena</string>
+<string name="clear_log">Smazat log</string>
+<string name="autorecord">Spustit automaticky při startu Androidu</string>
+<string name="version">Verze: 2.0</string>
+<string name="input_log_size">Zde můžete zadat velikost logu (MBytes)</string>
+<string name="log_size_default">-</string>
+</resources>
