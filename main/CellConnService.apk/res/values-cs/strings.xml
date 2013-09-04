@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Služby sítě</string>
+<string name="button_ok">Ok</string>
+<string name="button_cancel">Zrušit</string>
+<string name="confirm_radio_title">SIM vypnuta</string>
+<string name="confirm_radio_msg">%1$s je nyní vypnuta. Chcete zapnout tuto SIM kartu?</string>
+<string name="confirm_radio_msg_single">Mód letadlo je nyní zapnutý, chcete ho vypnout?</string>
+<string name="confirm_pin_title">SIM uzamčena</string>
+<string name="confirm_pin_msg">Vybraná SIM karta je nyní uzamčena. Nejprve ji, prosím, odemkněte.</string>
+<string name="confrim_simmelock_title">SIM ME uzamčeno</string>
+<string name="confirm_simmelock_msg">Vybraný SIM slot je nyní uzamčen. Nejprve ho, prosím, odemkněte.</string>
+<string name="confirm_fdn_title">FDN zapnuto</string>
+<string name="confirm_fdn_msg">Pevná provolba zapnuta.</string>
+<string name="confirm_roaming_title">Varování pči Roamingu</string>
+<string name="confirm_roaming_msg">Tato SIM karta používá roaming. Není k dispozici žádná lokální SIM. Chcete pokračovat?</string>
+<string name="confirm_roaming_withPrefer_msg">Tato SIM karta používá roaming.. Chcete pokračovat přes lokální SIM?</string>
+<string name="confirm_roaming_lbutton">Pokračovat</string>
+<string name="confirm_roaming_rbutton">Zrušit</string>
+<string name="confirm_roamingWithPrefer_lbutton">Lokální SIM</string>
+<string name="confirm_roamingWithPrefer_rbutton">Roamingová SIM</string>
+<string name="confirm_radio_lbutton">Zapnout</string>
+<string name="confirm_unlock_lbutton">Odemknout</string>
+<string name="confirm_disable_lbutton">Zakázat</string>
+<string name="confirm_unlock_fail">Operace zrušena</string>
+<string name="confirm_turnon_radio_fail">Operace zrušena</string>
+<string name="confirm_permit_roaming_fail">Zrušit tuto akci pro roamingovou SIM</string>
+<string name="confirm_sim_locked_message">SIM karta je trvale uzamčena</string>
+<string name="confirm_slot_locked_message">Slot je trvale uzamčen</string>
+</resources>
