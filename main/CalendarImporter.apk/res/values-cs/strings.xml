@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="import_to">Import do</string>
+<string name="import_button">Import</string>
+<string name="cancel">Zrušit</string>
+<string name="no_access_toast">Účet nenalezen. Prosím, zadejte nejprve účet</string>
+<string name="null_name">Nic</string>
+<string name="import_message">Chcete importovat # do Kalendáře?</string>
+<string name="name_lable">Název:</string>
+<string name="calendar_lable">"Kalendář: "</string>
+<string name="date_lable">"Datum: "</string>
+<string name="import_title">Import událostí kalendáře</string>
+<string name="importing">Importování...</string>
+<string name="import_complete">Import kompletní</string>
+<string name="open">Otevřít</string>
+<string name="done">Hotovo</string>
+<string name="progresszero">0 %</string>
+<string name="no_syncable_calendars">Nemohu importovat</string>
+<string name="no_calendars_found">Tento účet nepodporuje synchronizaci kalendáře nebo nebyla poslední synchronizace dokončena</string>
+<string name="vcs_import_failed">"Nelze importovat vCalendar."</string>
+</resources>
