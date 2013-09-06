@@ -67,3 +67,6 @@ Exchange.apk
 
 Flashlight.apk
   strings.xml (CS100%, SK100%)
+
+FMRadio.apk
+  strings.xml (CS100%, SK100%)
