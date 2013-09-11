@@ -183,3 +183,6 @@ MmsFavoriteProvider.apk
 
 MTKAndroidSuiteDaemon.apk
   strings.xml (CS100%, SK100%)
+
+MtkVideoLiveWallpaper.apk
+  strings.xml (CS100%, SK100%)
