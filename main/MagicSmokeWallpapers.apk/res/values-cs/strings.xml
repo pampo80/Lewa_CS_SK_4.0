@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="wallpapers">Magic Smoke Wallpapers</string>
+<string name="wallpaper_magicsmoke">Magický kouř</string>
+<string name="author">Google</string>
+<string name="magicsmoke_desc">Kreslí kouř, mraky, vodu a plazmu.</string>
+<string name="ok">OK</string>
+<string name="taptochange">Klepnutím změníte</string>
+</resources>
