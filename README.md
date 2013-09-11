@@ -172,5 +172,8 @@ LiveWallpapers.apk
 LocationProvider.apk
   location.db (deleted locations (chinese))
 
+MagicSmokeWallpapers.apk
+  strings.xml (CS100%, SK100%)
+  
 MTKAndroidSuiteDaemon.apk
   strings.xml (CS100%, SK100%)
