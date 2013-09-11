@@ -174,6 +174,9 @@ LocationProvider.apk
 
 MagicSmokeWallpapers.apk
   strings.xml (CS100%, SK100%)
+
+MediaProvider.apk
+  strings.xml (CS100%, SK100%)
   
 MTKAndroidSuiteDaemon.apk
   strings.xml (CS100%, SK100%)
