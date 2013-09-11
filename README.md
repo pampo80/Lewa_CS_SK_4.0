@@ -171,3 +171,6 @@ LiveWallpapers.apk
 
 LocationProvider.apk
   location.db (deleted locations (chinese))
+
+MTKAndroidSuiteDaemon.apk
+  strings.xml (CS100%, SK100%)
