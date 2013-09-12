@@ -192,3 +192,6 @@ NoiseField.apk
 
 Omacp.apk
   strings.xml (CS100%, SK100%)
+
+OneTimeInitializer.apk
+  strings.xml (CS100%, SK100%)
