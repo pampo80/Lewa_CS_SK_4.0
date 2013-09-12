@@ -189,3 +189,6 @@ MtkVideoLiveWallpaper.apk
 
 NoiseField.apk
   strings.xml (CS100%, SK100%)
+
+Omacp.apk
+  strings.xml (CS100%, SK100%)
