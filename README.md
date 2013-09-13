@@ -218,3 +218,7 @@ PIM.apk
 
 Power+.apk
   strings.xml (CS100%, SK100%)
+
+Search.apk
+  strings.xml (CS100%, SK100%)
+  search.png (CS100%, SK100%)
