@@ -202,6 +202,10 @@ PackageInstaller.apk
 PhaseBeam.apk
   strings.xml (CS100%, SK100%)
 
+Phone.apk
+  strings.xml (CS64.95%, SK60.27%)
+  plurals.xml (CS none, SK100%)
+
 PIM.apk
   strings.xml (CS99.52%, SK100%)
   arrays.xml (CS none, SK100%)
