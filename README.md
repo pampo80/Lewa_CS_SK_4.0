@@ -228,5 +228,7 @@ Search.apk
   search.png (CS100%, SK100%)
 
 Settings.apk
-  device_info_icon.png (all)
+  strings.xml (CS68.81%, SK62.89%)
   timezones.xml (CS100%, SK100%)
+  device_info_icon.png (all)
+  
