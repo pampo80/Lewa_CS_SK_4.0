@@ -244,3 +244,7 @@ Stk2.apk
 
 StkSelection.apk
   strings.xml (CS100%, SK100%)
+
+SystemUI.apk
+  strings.xml (CS100%, SK100%)
+  plurals.xml (CS none, SK100%)
