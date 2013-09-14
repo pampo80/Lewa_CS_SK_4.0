@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-<string name="app_name">SIM Toolkit</string>
+<!--Decompiled by BART-R (BurgerZ <az.burgerz@gmail.com)>--><resources>
+<string name="app_name">Sada nástrojov SIM</string>
 <string name="activity_not_found">Aplikácia nie je nainštalovaná vo vašom telefóne</string>
-<string name="simlock_toolkit">SIM Toolkit</string>
+<string name="simlock_toolkit">Sada nástrojov SIM</string>
 </resources>
