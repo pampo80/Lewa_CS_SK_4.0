@@ -235,3 +235,6 @@ Settings.apk
   
 SettingsProvider.apk
   strings.xml (CS100%, SK100%)
+
+Stk1.apk
+  strings.xml (CS100%, SK100%)
