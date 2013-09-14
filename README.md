@@ -233,3 +233,5 @@ Settings.apk
   timezones.xml (CS100%, SK100%)
   device_info_icon.png (all)
   
+SettingsProvider.apk
+  strings.xml (CS100%, SK100%)
