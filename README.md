@@ -269,3 +269,6 @@ Treasure.apk
 
 UserDictionaryProvider.apk
   strings.xml (CS100%, SK100%)
+
+VirusDefense.apk
+  strings.xml (CS100%, SK100%)
